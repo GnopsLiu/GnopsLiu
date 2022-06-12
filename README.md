@@ -80,7 +80,7 @@
 ### :file_folder: Education
 
 
-+ **<span align=left>2015-09 到 2019-07</span>**&emsp;&emsp;&emsp;&emsp; **NanJing Agriculture University**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Bachelor&ensp;Degree**                       
++ **<span align=left>2015-09 to 2019-07</span>**&emsp;&emsp;&emsp;&emsp; **NanJing Agriculture University**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Bachelor&ensp;Degree**                       
 
 ----
 
